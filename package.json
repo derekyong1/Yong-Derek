@@ -1,0 +1,23 @@
+{
+  "name": "Yong-Derek",
+  "version": "1.0.0",
+  "description": "Personal Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/derekyong1/Yong-Derek.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/derekyong1/Yong-Derek/issues"
+  },
+  "homepage": "https://github.com/derekyong1/Yong-Derek#readme",
+  "dependencies": {
+    "locomotive-scroll": "^4.1.1"
+  }
+}
